@@ -3,7 +3,7 @@ Built using **Python**, **IBM watsonx.ai**, **LangChain**, and **Gradio**, it pr
 
 ---
 
-##Features
+## Features
 
 - **AI Question Answering** — Uses IBM watsonx.ai models to read and answer questions from PDFs.
 - **PDF Upload Interface** — Simple drag-and-drop PDF upload via Gradio.
@@ -12,7 +12,7 @@ Built using **Python**, **IBM watsonx.ai**, **LangChain**, and **Gradio**, it pr
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 - **Python 3.8+**
 - **IBM watsonx.ai (LLM + Embeddings)**
